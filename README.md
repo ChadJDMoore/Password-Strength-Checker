@@ -20,6 +20,8 @@ The purpose of this project is to create a Python script that evaluates the stre
 #### 1. Import the re Module
 
 - Import Python's built-in re module for regex functionality
+<img width="68" alt="image" src="https://github.com/user-attachments/assets/1c0057c1-6a8c-43d4-a60e-d8520bcdef7f">
+
 
 #### 2. Define the Password Strength Criteria
 
@@ -27,7 +29,9 @@ The purpose of this project is to create a Python script that evaluates the stre
 - At least one uppercase letter.
 - At least one lowercase letter.
 - At least one numeric digit.
-- At least one special character (e.g., **!@#$%^&*()**).
+- At least one special character (e.g., **!@#$%^&*()**)
+<img width="502" alt="image" src="https://github.com/user-attachments/assets/e69c14df-e678-4c12-8539-c2266b4e06ae">
+
 
 #### 3. Implement the Validation Logic
 
@@ -37,6 +41,8 @@ The purpose of this project is to create a Python script that evaluates the stre
 #### 4. Count the Criteria Met
 
 - Use a **sum()** function to count the number of conditions the password satisfies
+<img width="191" alt="image" src="https://github.com/user-attachments/assets/0c207258-5d09-48bd-bcec-0c49b67ed71d">
+
 
 #### 5. Classify Password Strength
 
