@@ -28,3 +28,31 @@ The purpose of this project is to create a Python script that evaluates the stre
 - At least one lowercase letter.
 - At least one numeric digit.
 - At least one special character (e.g., **!@#$%^&*()**).
+
+#### 3. Implement the Validation Logic
+
+- Use the **re.search()** method to detect if a password meets each criterion.
+- Create Boolean variables to store results for each condition.
+
+#### 4. Count the Criteria Met
+
+- Use a **sum()** function to count the number of conditions the password satisfies
+
+#### 5. Classify Password Strength
+
+- Categorize the password strength as:
+  - Strong: Meets all 5 criteria.
+  - Moderate: Meets 3 or 4 criteria.
+  - Weak: Meets fewer than 3 criteria.
+ 
+#### 6. Collect User Input
+
+- Prompt the user to input a password using the **input()** function.
+ 
+#### 7. Display Results
+
+- Call the **check_password_strength()** function and print the result to the console.
+
+#### 8. Test the Script
+
+- Run the script and test various passwords to ensure correct classification.
