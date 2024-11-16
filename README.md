@@ -16,7 +16,7 @@ The purpose of this project is to create a Python script that evaluates the stre
 - Regex Module (re): Utilized to perform pattern matching for password validation.
 - Command Line/Terminal: Used for testing and running the script interactively.
 
-## Steps
+## Code Screenshots
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
