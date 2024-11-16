@@ -9,13 +9,12 @@ The purpose of this project is to create a Python script that evaluates the stre
 - Python Functions: Gained experience in defining and using reusable functions.
 - Conditional Logic: Improved understanding of implementing conditional statements to determine outcomes based on criteria.
 - User Input Handling: Practiced collecting user input and providing dynamic feedback.
-- 
+  
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- Python 3.x: The primary programming language used to develop the script.
+- Regex Module (re): Utilized to perform pattern matching for password validation.
+- Command Line/Terminal: Used for testing and running the script interactively.
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
