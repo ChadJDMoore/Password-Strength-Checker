@@ -17,10 +17,14 @@ The purpose of this project is to create a Python script that evaluates the stre
 - Command Line/Terminal: Used for testing and running the script interactively.
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+#### 1. Import the re Module
 
-Every screenshot should have some text explaining what the screenshot is about.
+- Import Python's built-in re module for regex functionality
 
-Example below.
+#### 2. Define the Password Strength Criteria
 
-*Ref 1: Network Diagram*
+- Length of at least 8 characters
+- At least one uppercase letter.
+- At least one lowercase letter.
+- At least one numeric digit.
+- At least one special character (e.g., **!@#$%^&*()**).
