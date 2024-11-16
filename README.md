@@ -4,14 +4,12 @@
 The purpose of this project is to create a Python script that evaluates the strength of a password based on predefined security criteria. This tool helps users understand how secure their passwords are and provides feedback to encourage stronger password practices.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
-
+- Regex (Regular Expressions): Learned to apply regex patterns to validate specific conditions like detecting uppercase letters, numbers, and special characters.
+- Python Functions: Gained experience in defining and using reusable functions.
+- Conditional Logic: Improved understanding of implementing conditional statements to determine outcomes based on criteria.
+- User Input Handling: Practiced collecting user input and providing dynamic feedback.
+- 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
