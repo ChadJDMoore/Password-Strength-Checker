@@ -55,9 +55,13 @@ The purpose of this project is to create a Python script that evaluates the stre
 <img width="262" alt="image" src="https://github.com/user-attachments/assets/948389f8-ed92-493c-a058-9b2258be566b">
 
 #### 9. Display Results
+- Print the result obtained
 <img width="229" alt="image" src="https://github.com/user-attachments/assets/03e3f191-3d04-4539-8599-48d686246515">
 
 #### 10. Test Case Results
+- Testing to see if script works and the respective results
+<img width="293" alt="image" src="https://github.com/user-attachments/assets/fd55b3c2-2509-4bf1-8893-cd23c3e0f3ae">
+
 
 
 
