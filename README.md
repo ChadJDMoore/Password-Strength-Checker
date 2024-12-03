@@ -49,13 +49,13 @@ The purpose of this project is to create a Python script that evaluates the stre
 <img width="176" alt="image" src="https://github.com/user-attachments/assets/22f12488-e78b-4d08-b806-0211c14d84dd">
 
 #### 6. Define the Function to Analyze Passwords
-Create a function named analyze_passwords(file_name) to process multiple passwords from a file.
+Create a function named **analyze_passwords(file_name)** to process multiple passwords from a file.
 
 #### 7. Read and Process Passwords from File
 Open the specified file, read each password line by line, and remove unnecessary whitespace.
 
 #### 8. Check Password Strength for Each Password
-Call the check_password_strength() function for each password to evaluate its strength.
+Call the **check_password_strength()** function for each password to evaluate its strength.
 
 #### 9. Display Results
 Print each password along with its corresponding strength classification.
@@ -64,7 +64,7 @@ Print each password along with its corresponding strength classification.
 Manage file-related issues like FileNotFoundError and handle other unexpected exceptions.
 
 #### 11. Set the File Name and Call the Function
-Specify the file name (e.g., passwords.demo.txt) and call the analyze_passwords() function to analyze the passwords.
+Specify the file name (e.g., passwords.demo.txt) and call the **analyze_passwords()** function to analyze the passwords.
 
 #### 12. Test the Script
 Run the script to confirm it correctly analyzes passwords and displays expected results.
