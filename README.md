@@ -90,7 +90,9 @@ Specify the file name (e.g., passwords.demo.txt) and call the **analyze_password
   
 #### 11. Test the Script
 Run the script to confirm it correctly analyzes passwords and displays expected results.
-<div><div>
+<div>
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/c4a1272f-2cab-46cc-94e3-f6f5ebcb86ad">
+<div>
 
 
 
