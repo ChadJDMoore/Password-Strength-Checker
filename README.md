@@ -48,21 +48,32 @@ The purpose of this project is to create a Python script that evaluates the stre
   - Weak: Fewer than 3 criteria are met.
 <img width="176" alt="image" src="https://github.com/user-attachments/assets/22f12488-e78b-4d08-b806-0211c14d84dd">
 
-#### 6. Get User Input
-- Prompt the user to enter a password using the **input()** function:
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/86f0f21a-78ff-4622-9b8b-d9f105fdf8a3">
+#### 6. Define the Function to Analyze Passwords
+Create a function named analyze_passwords(file_name) to process multiple passwords from a file.
 
-#### 7. Call the Function
-- Call the **check_password_strength()** function with the user-provided password
-<img width="262" alt="image" src="https://github.com/user-attachments/assets/948389f8-ed92-493c-a058-9b2258be566b">
+#### 7. Read and Process Passwords from File
+Open the specified file, read each password line by line, and remove unnecessary whitespace.
+
+#### 8. Check Password Strength for Each Password
+Call the check_password_strength() function for each password to evaluate its strength.
 
 #### 9. Display Results
-- Print the result obtained
-<img width="229" alt="image" src="https://github.com/user-attachments/assets/03e3f191-3d04-4539-8599-48d686246515">
+Print each password along with its corresponding strength classification.
 
-#### 10. Test Case Results
-- Testing to see if script works and the respective results
-<img width="293" alt="image" src="https://github.com/user-attachments/assets/fd55b3c2-2509-4bf1-8893-cd23c3e0f3ae">
+#### 10. Handle Errors
+Manage file-related issues like FileNotFoundError and handle other unexpected exceptions.
+
+#### 11. Set the File Name and Call the Function
+Specify the file name (e.g., passwords.demo.txt) and call the analyze_passwords() function to analyze the passwords.
+
+#### 12. Test the Script
+Run the script to confirm it correctly analyzes passwords and displays expected results.
+
+
+
+
+
+
 
 
 
