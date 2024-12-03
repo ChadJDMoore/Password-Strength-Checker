@@ -8,13 +8,15 @@ The purpose of this project is to create a Python script that evaluates the stre
 - Regex (Regular Expressions): Learned to apply regex patterns to validate specific conditions like detecting uppercase letters, numbers, and special characters.
 - Python Functions: Gained experience in defining and using reusable functions.
 - Conditional Logic: Improved understanding of implementing conditional statements to determine outcomes based on criteria.
-- User Input Handling: Practiced collecting user input and providing dynamic feedback.
+- File Handling: Learned to read from files, process file content line by line, and handle file-related errors such as missing files.
+- Error Handling: Developed ability to manage exceptions (FileNotFoundError, general exceptions) to ensure robust code execution.
   
 ### Tools Used
 
 - Python 3.x: The primary programming language used to develop the script.
 - Regex Module (re): Utilized to perform pattern matching for password validation.
-- Command Line/Terminal: Used for testing and running the script interactively.
+- Text Files: Used to store and test multiple passwords for analysis.
+- Command Line/Terminal: Employed for running the script and displaying password strength results interactively.
 
 ## Steps
 #### 1. Import the re Module
